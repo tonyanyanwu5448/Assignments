@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+   width: 70%;
+   padding: 20px;
+   font-size: 20px;
+  
+   
+}
+
+input{
+   width: 100%;
+   padding: 10px;
+   background-color: #f1f1f1;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   border: none;
+   
+}
+
+input:focus{
+   background-color: #ddd;
+   border: none;
+}
+
+.registerbtn{
+   width: 100%;
+   cursor: pointer;
+   padding: 10px;
+   border-radius: 51px;
+   background-color: green;
+   color: white;
+}
+
+a{
+   color: green;
+}
+
+.loginbtn:hover{
+   opacity: 0.9;
+}
+
+.log-redirect a{
+   color: red;
+}
+
+#gender{
+    width: 100%;
+   padding: 10px;
+   background-color: #f1f1f1;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   border: none;
+}
+
+#favcolor{
+    width: 100%;
+   padding: 10px;
+   background-color: #f1f1f1;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   border: none;
+}
+
+#birthday{
+    width: 100%;
+   padding: 10px;
+   background-color: #f1f1f1;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   border: none;
+}

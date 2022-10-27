@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+
+.service-container{
+    width: 100%;
+    padding: 20px;
+    background-color: burlywood;
+    color: black;
+
+}
+
+.services{
+    width: 100%;
+    text-align: center;
+    background: burlywood;
+    color: red;
+
+    
+}
+
+.offerlist{
+    width: 100%;
+    margin: auto;
+    justify-content: space-around;
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+
+.copyright{
+    width: 100%;
+    margin: auto;
+    justify-content: space-around;
+    padding: 20px;
+    font-size: 15px;
+    font-weight: 500;
+    background-color: black;
+    color: white;
+
+}
+
+#offer{
+    width: 100%;
+    margin: auto;
+    justify-content: space-around;
+    padding: 20px;
+    font-size: 30px;
+    
+}

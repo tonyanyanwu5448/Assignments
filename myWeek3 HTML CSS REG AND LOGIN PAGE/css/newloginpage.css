@@ -1,0 +1,44 @@
+*{
+     box-sizing: border-box;
+}
+
+.container{
+    width: 70%;
+    padding: 20px;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    background-color: #f1f1f1;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+}
+
+input:focus{
+    background-color: #ddd;
+    border: none;
+}
+
+.loginbtn{
+    width: 100%;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 51px;
+    background-color: green;
+    color: white;
+}
+
+a{
+    color: green;
+}
+
+.loginbtn:hover{
+    opacity: 0.9;
+}
+
+.reg-redirect a{
+    color: red;
+}
+
